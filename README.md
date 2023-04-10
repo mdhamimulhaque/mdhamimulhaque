@@ -28,4 +28,6 @@
 <br><br>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdhamimulhaque&" alt="mdhamimulhaque" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdhamimulhaque&" alt="mdhamimulhaque" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhamimulhaque&show_icons=true&locale=en&layout=compact" alt="mdhamimulhaque" /></p>
+
+
